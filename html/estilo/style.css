@@ -1,0 +1,42 @@
+h1{
+    background-color:gray;
+    text-align: center;
+    border-radius:  10px;
+    margin: 0 ;
+    margin-bottom: 15px;
+    width: auto;
+    border: 3px solid black;
+    padding: 15px;
+ 
+
+}
+
+
+
+body{
+    background-color:  #5C39DB;
+    max-width: 900px;
+    margin: auto;
+   
+}
+
+p{
+    font-family:  verdana;
+    color:   #DCB7F5;
+}
+.post_image{
+
+	margin-bottom: 15px;
+	width:auto;
+	border-radius: 10px;
+	border-bottom: solid black;
+}
+    .post_content{
+        background-color: rgb(63, 59, 59);
+        margin:0;
+        margin-bottom: 15px;
+      border-radius: 10px;
+      text-transform: capitalize;
+      text-align: justify; 
+      border-width: 5px;
+    }
